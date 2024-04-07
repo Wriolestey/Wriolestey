@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Wriolestey
+- 👀 I’m interested in games ...
+- 🌱 I’m currently learning  ...
+- 💞️ I’m looking to collaborate on furina ...
+- 📫 How to reach me ...
+- 😄 Pronouns: he's/ he
+- ⚡ Fun fact: ...I'm attracted to a 2d and
+- I can't feel anything for anyone else 
+
+<!---
+Wriolestey/Wriolestey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
